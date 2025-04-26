@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 JWT Generator Tool
-Author: [Tu Nombre o Alias]
+Author: Julián Rodríguez
 Description:
   Simple script to generate a signed JWT token, useful for CTFs, pentesting, or testing applications.
 """

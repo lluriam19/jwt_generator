@@ -9,6 +9,6 @@ Simple script to generate a signed JWT token, useful for CTFs, pentesting, or ap
 
 ## Installation
 ```bash
-git clone https://github.com/tu-usuario/jwt-generator.git
+git clone https://github.com/lluriam19/jwt-generator.git
 cd jwt-generator
 pip install -r requirements.txt

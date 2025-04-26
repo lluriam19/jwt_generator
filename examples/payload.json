@@ -1,0 +1,11 @@
+{
+  "iss": "http://example.com",
+  "aud": "http://example.com",
+  "iat": 1714098800,
+  "exp": 1714102400,
+  "data": {
+    "user_id": 1,
+    "email": "user@example.com",
+    "role": "admin"
+  }
+}
